@@ -47,7 +47,7 @@
 
 ## 📌 Proyectos destacados
 
-🚧 Próximamente...width="50"
+🚧 Próximamente...
 
 ---
 
@@ -71,11 +71,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </div>
-
-
-###
-
-<img src="https://raw.githubusercontent.com/JuanDa-LG/JuanDa-LG/output/snake.svg" alt="Snake animation" />
 
 ###
 
