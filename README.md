@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode" />
 </p>
 
@@ -32,17 +32,40 @@
 
 ## 📌 Proyectos destacados
 
-🚧 Próximamente...  
+🚧 Próximamente...width="50"
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanDa-LG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JuanDa-LG&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+---
 ## 📫 Conecta conmigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<div align="left">
+  <a href="https://www.linkedin.com/" >
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:tuemail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-</p>
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</div>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/JuanDa-LG/JuanDa-LG/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&fontSize=100&fontColor=34110&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
