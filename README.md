@@ -79,8 +79,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&fontSize=100&fontColor=34110&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6C63FF&height=200&section=footer&text=Designing%20Digital%20Experiences&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
 ###
